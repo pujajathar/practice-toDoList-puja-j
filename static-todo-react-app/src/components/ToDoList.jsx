@@ -4,6 +4,7 @@ export default function ToDoList () {
 return (
 
 <div class="todolist">
+    <h2>Tasks:</h2>
     <ul>
     <li>Learn React</li>
     <li>Build a project</li>
